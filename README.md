@@ -1,0 +1,5 @@
+- 👋 Hallo, ich bin Hussain. Ich studiere Maschinenbau and der Universität Duisburg-Essen.
+- 👀 Ich interessiere mich für die Finite-Elemente-Methode zur numerischen Lösung von Differentialgleichungen, die im Ingenieurwesen und in der mathematischen Modellierung auftreten (Computational Fluid Dynamics, Structural Analysis) Computer Aided Design, Lösen von Differentialgleichungen und deren Simulation.
+- 🌱 Ich lerne gerade Matlab/Simulink. Wie man mit verschiedenen Reglern umgeht und sie benutzt... und viele andere interessante Funktionen im Matlab.
+- 💞️ Ich suche die Zusammenarbeit mit ANSYS - Fluent/CFX, Matlab - Simulink.
+- 📫 Kontaktieren Sie mich über meine E-Mail hussainnasir559@yahoo.com oder telefonisch unter +491638847268
